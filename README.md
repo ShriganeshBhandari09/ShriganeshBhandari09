@@ -1,8 +1,7 @@
 <img src="/Shriganesh Bhandari.png" width="100%" height="100%"/>
 
-✨ I'm a passionate Full Stack Developer 💻 with a love for crafting efficient, scalable, and user-friendly applications. My expertise spans both frontend 🖥️ and backend 🔙 development, enabling me to build seamless, full-featured web and mobile applications from the ground up.
+### ✨ I'm a passionate Full Stack Developer 💻 with a love for crafting efficient, scalable, and user-friendly applications. My expertise spans both frontend 🖥️ and backend 🔙 development, enabling me to build seamless, full-featured web and mobile applications from the ground up.
 
-### ✍🏻 I am writing about JavaScript to improve my knowledge but also to help beginner fellow developers understand programming from another angle. Follow the Medium link to read the articles!
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
 
