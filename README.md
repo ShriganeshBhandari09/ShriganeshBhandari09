@@ -5,7 +5,7 @@
 
 <img src="/Shriganesh Bhandari.png" width="100%" height="100%"/>
 
-<h3 align="center">💻Software Engineering Student 👨‍💻 | Seeking Job Opportunities 💼 | Strong academic foundation in Computer Science 📚 | Proficient in many technical skills 💡 | Passionate about coding, problem-solving, and continuous learning 🚀 | Eager to contribute to impactful projects 🌟 | Seeking growth in a dynamic organization 🌱.</h3>
+<h3 align="center">💻Software Engineering Student 👨‍💻 | Seeking Job Opportunities 💼 | Passionate about coding, problem-solving, and continuous learning 🚀 | Eager to contribute to impactful projects 🌟 | Seeking growth in a dynamic organization 🌱.</h3>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriganeshbhandari09" alt="ShriganeshBhandari09" /></a> </p>
 <br>
