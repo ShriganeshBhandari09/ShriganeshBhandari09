@@ -38,6 +38,15 @@
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   8 hrs 40 mins   ████████████████████████▒   97.50 %
+CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriganeshbhandari09&show_icons=true&locale=en&layout=compact" alt="shriganeshbhandari09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriganeshbhandari09&show_icons=true&locale=en" alt="shriganeshbhandari09" /></p>
