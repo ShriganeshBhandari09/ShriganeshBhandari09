@@ -35,6 +35,10 @@
 	<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,git,github,postman,netlify,vercel&perline=11" />
 </p>
 
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriganeshbhandari09&show_icons=true&locale=en&layout=compact" alt="shriganeshbhandari09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriganeshbhandari09&show_icons=true&locale=en" alt="shriganeshbhandari09" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriganeshbhandari09&" alt="shriganeshbhandari09" /></p>
