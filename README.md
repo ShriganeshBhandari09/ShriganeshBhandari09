@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.3%20thousand%20lines%20of%20code-blue)
 
@@ -83,17 +83,17 @@ Sunday                   55 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 40 mins       ████████████████████████░   97.50 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               7 hrs 1 min         █████████████████████████   98.74 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2024 08:30:45 UTC
+ Last Updated on 11/12/2024 01:10:28 UTC
 <!--END_SECTION:waka-->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriganeshbhandari09&show_icons=true&locale=en&layout=compact" alt="shriganeshbhandari09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriganeshbhandari09&show_icons=true&locale=en" alt="shriganeshbhandari09" /></p> -->
