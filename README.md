@@ -38,9 +38,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.3%20thousand%20lines%20of%20code-blue)
 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 01:11:18 UTC
+ Last Updated on 14/12/2024 01:07:44 UTC
 <!--END_SECTION:waka-->
 
 
