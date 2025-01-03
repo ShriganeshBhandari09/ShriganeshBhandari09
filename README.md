@@ -32,83 +32,12 @@
 # 🛠️ Languages & Tools
 
 <p>
-	<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vscode,git,github,postman,netlify,vercel&perline=11" />
+	<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,vscode,git,github,postman,netlify,vercel&perline=11" />
 </p>
 
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.1%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 224.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-🌆 Daytime                109 commits         ██████████░░░░░░░░░░░░░░░   39.21 % 
-🌃 Evening                145 commits         █████████████░░░░░░░░░░░░   52.16 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  57 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-SCSS                     8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
-JavaScript               7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-PHP                      5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-CSS                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-HTML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 49 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  25 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ███████████████░░░░░░░░░░   58.33 % 
-HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on 03/01/2025 01:04:41 UTC
 <!--END_SECTION:waka-->
 
 
