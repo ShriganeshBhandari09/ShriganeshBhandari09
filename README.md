@@ -22,7 +22,7 @@
 
 - 👨‍💻All of my projects are available at [Github](https://github.com/shriganeshbhandari09)💻✨
 
-- 📄Check out my portfolio link at [Portfolio](https://shriganesh-bhandari-portfolio.vercel.app) 💻✨
+- 📄Check out my portfolio link at [Portfolio](https://shriganesh-bhandari.tech) 💻✨
 
 - 📫How to reach me **shriganesh.bhandari693@gmail.com**
 
