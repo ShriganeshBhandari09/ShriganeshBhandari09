@@ -38,6 +38,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -104,7 +106,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 01:08:45 UTC
+ Last Updated on 29/03/2025 01:08:03 UTC
 <!--END_SECTION:waka-->
 
 
