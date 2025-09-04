@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "TRUE"
+          COMMIT_BY_ME: "FALSE"
           COMMIT_USERNAME: ""
           COMMIT_EMAIL: ""
           SHOW_PROJECTS: "False"
