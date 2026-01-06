@@ -38,9 +38,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.66%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.66%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -81,17 +81,16 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 hrs 13 mins      ███████████████████████░░   90.94 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JavaScript               9 hrs 19 mins       ███████████████████████░░   92.55 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Windsurf                 11 hrs 14 mins      █████████████████████████   100.00 % 
+Windsurf                 10 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +106,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:27:26 UTC
+ Last Updated on 06/01/2026 01:20:56 UTC
 <!--END_SECTION:waka-->
 
 
