@@ -81,14 +81,13 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 9 mins              ███████████████████████░░   92.42 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Windsurf                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 02:57:01 UTC
+ Last Updated on 28/05/2026 02:44:27 UTC
 <!--END_SECTION:waka-->
 
 
