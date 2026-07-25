@@ -52,47 +52,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                163 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌆 Daytime                162 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌃 Evening                173 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Saturday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               6 hrs 43 mins       ████████████████░░░░░░░░░   63.05 % 
-HTML                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-
-🔥 Editors: 
-Antigravity IDE          5 hrs 34 mins       █████████████░░░░░░░░░░░░   52.22 % 
-Claude Code              5 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.78 % 
-
-💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +65,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:12:59 UTC
+ Last Updated on 25/07/2026 02:12:12 UTC
 <!--END_SECTION:waka-->
 
 
