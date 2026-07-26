@@ -38,13 +38,15 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs%2055%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.91%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 472.8 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 21 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,6 +54,47 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                163 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌆 Daytime                162 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌃 Evening                174 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Saturday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               7 hrs 52 mins       █████████████████░░░░░░░░   67.29 % 
+HTML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 34 mins       ██████████████░░░░░░░░░░░   56.26 % 
+Antigravity IDE          5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
+
+💻 Operating System: 
+Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -65,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:12:12 UTC
+ Last Updated on 26/07/2026 02:23:07 UTC
 <!--END_SECTION:waka-->
 
 
