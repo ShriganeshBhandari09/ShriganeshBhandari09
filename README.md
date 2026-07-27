@@ -81,18 +81,18 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 52 mins       █████████████████░░░░░░░░   67.29 % 
-HTML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               6 hrs 23 mins       ████████████████░░░░░░░░░   62.54 % 
+HTML                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 34 mins       ██████████████░░░░░░░░░░░   56.26 % 
-Antigravity IDE          5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
+Claude Code              6 hrs 34 mins       ████████████████░░░░░░░░░   64.44 % 
+Antigravity IDE          3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
 
 💻 Operating System: 
-Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:23:07 UTC
+ Last Updated on 27/07/2026 02:30:32 UTC
 <!--END_SECTION:waka-->
 
 
