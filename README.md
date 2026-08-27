@@ -83,13 +83,13 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 10 mins        █████████████████████░░░░   82.78 % 
-SQL                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JavaScript               1 hr 10 mins        █████████████████████░░░░   82.91 % 
+SQL                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ██████████████░░░░░░░░░░░   55.97 % 
-Claude Code              37 mins             ███████████░░░░░░░░░░░░░░   44.03 % 
+VS Code                  47 mins             ██████████████░░░░░░░░░░░   55.29 % 
+Claude Code              38 mins             ███████████░░░░░░░░░░░░░░   44.71 % 
 
 💻 Operating System: 
 Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
@@ -98,22 +98,22 @@ Windows                  1 hr 25 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (64.11%)
+⏱ AI Coding Time: 55 mins (65.12%)
 
 ✍️ 49 lines written by AI, 66 lines written by hand (42.61% AI-written)
 
-🔤 39,376 Input Tokens, 9,391 Output Tokens
+🔤 94,854 Input Tokens, 10,529 Output Tokens
 
-💵 $0.44 Estimated AI Cost This Week
+💵 $0.60 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 22 AI Prompts
+🧠 3 AI Sessions, 23 AI Prompts
 
 Sonnet                   68 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 42.61% of written lines came from AI
-📝 Concise Prompter — average 120 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 54.05% of changed lines were hand-edited
 ```
 
@@ -130,7 +130,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:00:47 UTC
+ Last Updated on 27/08/2026 06:56:07 UTC
 <!--END_SECTION:waka-->
 
 
