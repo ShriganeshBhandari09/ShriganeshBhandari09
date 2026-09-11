@@ -83,26 +83,26 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Astro                    4 hrs 47 mins       █████████████████████░░░░   82.68 % 
-JavaScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JavaScript               35 mins             ██████████████████░░░░░░░   73.42 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       ███████████████████████░░   92.13 % 
-Claude Code              27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Claude Code              27 mins             ██████████████░░░░░░░░░░░   56.47 % 
+VS Code                  21 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
 
 💻 Operating System: 
-Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (8.85%)
+⏱ AI Coding Time: 30 mins (63.45%)
 
-✍️ 3,062 lines written by AI, 517 lines written by hand (85.55% AI-written)
+✍️ 3,062 lines written by AI, 85 lines written by hand (97.3% AI-written)
 
 🔤 513,814 Input Tokens, 40,883 Output Tokens
 
@@ -113,10 +113,10 @@ Windows                  5 hrs 48 mins       ███████████�
 Sonnet                   3,090 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.55% of written lines came from AI
+🤖 AI-Driven — 97.3% of written lines came from AI
 📄 Detailed Prompter — average 650 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 20.05% of changed lines were hand-edited
+🚀 High AI Trust — 7.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 02:48:16 UTC
+ Last Updated on 11/09/2026 02:41:33 UTC
 <!--END_SECTION:waka-->
 
 
