@@ -83,38 +83,19 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████░░░░   85.74 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JavaScript               14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  20 mins             ████████████████████░░░░░   80.17 % 
-Claude Code              5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (31.27%)
-
-✍️ 0 lines written by AI, 84 lines written by hand (0.0% AI-written)
-
-🔤 98,767 Input Tokens, 6,088 Output Tokens
-
-💵 $0.66 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   28 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 27 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 90.31% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +111,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 03:04:03 UTC
+ Last Updated on 15/09/2026 03:06:02 UTC
 <!--END_SECTION:waka-->
 
 
