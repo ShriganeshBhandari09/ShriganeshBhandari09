@@ -38,7 +38,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2029%20mins-blue?style=flat)
 
@@ -83,41 +83,41 @@ Sunday                   111 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-CSS                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-SQL                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JavaScript               3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.00 % 
+CSS                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+SQL                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 44 mins       ██████████████████░░░░░░░   70.18 % 
-VS Code                  2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Claude Code              5 hrs 8 mins        █████████████████░░░░░░░░   67.44 % 
+VS Code                  2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 2 mins (74.66%)
+⏱ AI Coding Time: 5 hrs 37 mins (73.64%)
 
-✍️ 13,519 lines written by AI, 134 lines written by hand (99.02% AI-written)
+✍️ 13,606 lines written by AI, 141 lines written by hand (98.97% AI-written)
 
-🔤 2,101,870 Input Tokens, 862,592 Output Tokens
+🔤 2,219,508 Input Tokens, 883,276 Output Tokens
 
-💵 $56.69 Estimated AI Cost This Week
+💵 $57.87 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 77 AI Prompts
+🧠 12 AI Sessions, 83 AI Prompts
 
-Sonnet                   14,916 lines        █████████████████████████   100.00 % 
+Sonnet                   15,014 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
+🤖 AI-Driven — 98.97% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 04:32:37 UTC
+ Last Updated on 07/10/2026 03:58:33 UTC
 <!--END_SECTION:waka-->
 
 
