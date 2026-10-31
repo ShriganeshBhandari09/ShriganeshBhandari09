@@ -83,40 +83,40 @@ Sunday                   111 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
-HTML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Python                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-SQL                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JavaScript               3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.49 % 
+HTML                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Python                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 52 mins       █████████████████████░░░░   84.40 % 
-VS Code                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Claude Code              6 hrs 13 mins       █████████████████████░░░░   84.53 % 
+VS Code                  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (89.48%)
+⏱ AI Coding Time: 6 hrs 34 mins (89.33%)
 
-✍️ 4,415 lines written by AI, 25 lines written by hand (99.44% AI-written)
+✍️ 4,981 lines written by AI, 25 lines written by hand (99.5% AI-written)
 
-🔤 2,078,628 Input Tokens, 495,938 Output Tokens
+🔤 2,247,261 Input Tokens, 539,494 Output Tokens
 
-💵 $24.95 Estimated AI Cost This Week
+💵 $27.01 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 137 AI Prompts
+🧠 22 AI Sessions, 152 AI Prompts
 
-Sonnet                   4,441 lines         █████████████████████████   100.00 % 
+Sonnet                   5,015 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📝 Concise Prompter — average 168 characters per prompt
+🤖 AI-Driven — 99.5% of written lines came from AI
+📝 Concise Prompter — average 156 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.24% of changed lines were hand-edited
+🚀 High AI Trust — 11.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:05:21 UTC
+ Last Updated on 31/10/2026 03:49:22 UTC
 <!--END_SECTION:waka-->
 
 
